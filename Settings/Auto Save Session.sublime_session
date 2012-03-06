@@ -1,0 +1,1047 @@
+{
+	"folder_history":
+	[
+		"/home/liam/work/chronicle"
+	],
+	"last_window_id": 8,
+	"settings":
+	{
+		"new_window_height": 846.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"check",
+						"check_properties_exist"
+					],
+					[
+						"prop",
+						"property_names"
+					],
+					[
+						"img",
+						"img_data"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"",
+						"About"
+					]
+				],
+				"width": 530.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": true,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/liam/work/resume/build",
+				"/home/liam/work/resume/output/styles/resume.css",
+				"/home/liam/work/resume/src/header.html",
+				"/home/liam/work/resume/src/resume.md",
+				"/home/liam/work/resume/src/web.config",
+				"/home/liam/work/resume/src/footer.html",
+				"/home/liam/work/resume/resume.md",
+				"/home/liam/work/resume/header.html",
+				"/home/liam/work/resume/footer.html",
+				"/home/liam/work/chronicle/src/client/scripts/src/log.coffee",
+				"/home/liam/work/chronicle/src/tests/fast/model_tests.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/contract.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/home.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/views.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/app.js",
+				"/home/liam/work/chronicle/compiled/client/scripts/src/services/contract.coffee",
+				"/home/liam/work/chronicle/watch.rb",
+				"/home/liam/work/chronicle/compiled/client/scripts/src/log.js",
+				"/home/liam/work/chronicle/src/client/scripts/src/routers.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/models.coffee",
+				"/home/liam/work/chronicle/compiled/tests/fast/model_tests.coffee",
+				"/home/liam/work/chronicle/compiled/client/scripts/src/models.coffee",
+				"/home/liam/work/chronicle/compiled/client/scripts/src/views.js",
+				"/home/liam/work/chronicle/Cakefile",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/environment.coffee",
+				"/home/liam/work/chronicle/src/tests/model_tests.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/packaged/all.js",
+				"/home/liam/work/chronicle/compiled/Cakefile",
+				"/home/liam/work/chronicle/src/Cakefile",
+				"/home/liam/work/chronicle/.gitignore",
+				"/home/liam/work/chronicle/tests/fast/model_tests.coffee",
+				"/home/liam/work/chronicle/src/tests/fast/module_tests.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/lib/backbone.js",
+				"/home/liam/work/chronicle/spec/fast/model_tests.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/app.coffee",
+				"/home/liam/work/chronicle/src/client/index.html",
+				"/home/liam/work/chronicle/automation/pack.js",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/media.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/media_local.coffee",
+				"/home/liam/work/chronicle/src/Cakefile.coffee",
+				"/home/liam/work/chronicle/lib/sidelab-prowebapps-code-6bb4423/sync-server/src/com/jsonengine/controller/AppRouter.java",
+				"/home/liam/work/chronicle/src/client/start.html",
+				"/home/liam/work/clojure-koans/src/koans/conditionals.clj",
+				"/home/liam/work/clojure-koans/src/koans/equalities.clj",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/data.coffee",
+				"/home/liam/work/chronicle/automation/watch.rb",
+				"/home/liam/work/chronicle/automation/watch.watchr",
+				"/home/liam/work/chronicle/README.md",
+				"/home/liam/work/chronicle/pack.js",
+				"/home/liam/work/chronicle/src/client/scripts/src/views.js",
+				"/home/liam/work/chronicle/src/client/scripts/src/routers.js",
+				"/home/liam/work/chronicle/src/app/app.coffee",
+				"/home/liam/work/chronicle/src/client/styles/chronicle.css",
+				"/home/liam/work/chronicle/src/client/styles/proui.css",
+				"/home/liam/work/chronicle/package.js",
+				"/home/liam/work/chronicle/src/packages.json",
+				"/home/liam/work/chronicle/pg/AndroidManifest.xml",
+				"/home/liam/work/chronicle/pg/ant.properties",
+				"/home/liam/work/chronicle/pg/build.xml",
+				"/home/liam/work/chronicle/pg/local.properties",
+				"/home/liam/work/chronicle/pg/project.properties",
+				"/home/liam/work/chronicle/pg/default.properties",
+				"/home/liam/work/chronicle/src/build",
+				"/home/liam/work/chronicle/src/app/models.coffee",
+				"/home/liam/ddd",
+				"/home/liam/work/mobile/pg/Android/Sample/assets/www/master.css",
+				"/home/liam/work/mobile/pg/Android/Sample/assets/www/phonegap-1.2.0.js",
+				"/home/liam/work/mobile/pg/Android/Sample/assets/www/index.html",
+				"/home/liam/work/mobile/pg/Android/Sample/assets/www/main.js",
+				"/home/liam/work/mobile/src/index.html",
+				"/home/liam/work/mobile/lib/h5bp-mobile-boilerplate-05399c4/index.html",
+				"/home/liam/work/mobile/lib/h5bp-mobile-boilerplate-05399c4/humans.txt",
+				"/dev/shm/w/notes.md",
+				"/run/shm/w/.gitignore",
+				"/dev/shm/w/lib/h5bp-mobile-boilerplate-05399c4/index.html",
+				"/run/shm/w/notes.md",
+				"/tmp/shm",
+				"/home/liam/work/JavaScript-Koans/topics/about_functions_and_closure.js",
+				"/home/liam/life.md",
+				"/home/liam/work/backbone-sandpit/page.htm",
+				"/home/liam/work/backbone-sandpit/app.js",
+				"/home/liam/work/document-editor/project/src/.controllers.rb.swp",
+				"/home/liam/work/de/project/src/config.ru",
+				"/home/liam/work/de/project/Gemfile",
+				"/home/liam/work/de/project/src/server.rb",
+				"/home/liam/work/de/project/rakefile",
+				"/home/liam/work/de/project/src/controllers.rb",
+				"/home/liam/work/de/project/src/run",
+				"/home/liam/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
+				"/home/liam/browserid.rb",
+				"/home/liam/work/sidelab/voyeur-hosted/views/about.jade",
+				"/home/liam/work/sidelab/voyeur-hosted/views/includes/css/main.jade",
+				"/home/liam/work/sidelab/voyeur-hosted/views/includes/css/graph.jade",
+				"/home/liam/work/sidelab/voyeur-hosted/server.js",
+				"/home/liam/work/sidelab/voyeur-hosted/views/layout.jade",
+				"/home/liam/work/sidelab/voyeur-hosted/lib/config.js",
+				"/home/liam/work/sidelab/victim-hosted/server.js",
+				"/home/liam/work/sidelab/voyeur-hosted/js/lib/victim.js",
+				"/home/liam/work/sidelab/voyeur-hosted/views/index.jade",
+				"/home/liam/work/sidelab/voyeur-hosted/js/lib/ui/viclist.js",
+				"/home/liam/work/sidelab/voyeur-hosted/package.json",
+				"/home/liam/work/sidelab/spikes/victim-test/sampledb.js",
+				"/home/liam/work/sidelab/voyeur-hosted/js/lib/grapher.js",
+				"/home/liam/work/sidelab/voyeur-hosted/js/vendor/underscore.js",
+				"/home/liam/work/sidelab/voyeur-hosted/views/includes/head.jade",
+				"/home/liam/work/sidelab/voyeur-hosted/lib/victimgateway.js",
+				"/home/liam/work/sidelab/voyeur-hosted/lib/entities.js",
+				"/home/liam/work/sidelab/spikes/victim-test/server.js",
+				"/home/liam/work/sidelab/voyeur-hosted/test",
+				"/home/liam/work/sidelab/voyeur-hosted/spec/victimgatewayspec.js",
+				"/home/liam/work/sidelab/voyeur-hosted/lib/aggregator.js",
+				"/home/liam/work/sidelab/spikes/victim-test/main.js",
+				"/home/liam/work/sidelab/voyeur-hosted/web.js",
+				"/home/liam/work/sidelab/spikes/authentication/README",
+				"/home/liam/work/sidelab/README",
+				"/home/liam/work/de/project/src/views/layout.haml",
+				"/home/liam/pwd.js",
+				"/home/liam/work/de/spikes/node_jquery/script.js",
+				"/home/liam/work/de/project/src/views/index.haml",
+				"/home/liam/work/de/project/src/document_storage.rb",
+				"/home/liam/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/liam/work/JavaScript-Koans/topics/about_asserts.js",
+				"/home/liam/work/JavaScript-Koans/testFunctions.html",
+				"/home/liam/work/de/spikes/wmdspike/wmd/wmd.css",
+				"/home/liam/work/de/spikes/wmdspike/pagedownspike.html",
+				"/home/liam/work/de/spikes/wmdspike/pagedown/demo/browser/demo.css",
+				"/home/liam/work/de/spikes/wmdspike/pagedown/demo/browser/demo.html",
+				"/home/liam/work/de/spikes/wmdspike/wmdspike.html"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"href",
+					"require",
+					"media",
+					"this is",
+					"backbone.js",
+					"\"",
+					"div#header\n{\n    background-color: #53777A;\n}",
+					"@font-face {\nfont-family: YanoneKaffeesatz;\nfont-weight: bold;\nsrc: url(\"fonts/YanoneKaffeesatz-Bold.otf\") format(\"opentype\");\n}",
+					"Extend",
+					"\n        .legend-bytes-rx {\n            background-color: @bytes-rx-colour;\n        }",
+					"#",
+					"update",
+					"initSensorHandler",
+					"init",
+					"console.log",
+					"victimGateway",
+					"victim",
+					"Avg",
+					"Max",
+					"min",
+					"Current",
+					"Name",
+					"    it(\"should join urls that end with /\", function() {            \n            expect(url.resolve('http://localhost/', 'auth')).toBe('http://localhost/auth');\n    });",
+					"side_bar",
+					"width"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"'",
+					"avg",
+					"max",
+					"min",
+					"current",
+					"name"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"contract",
+						"compiled/client/scripts/src/services/contract.coffee"
+					],
+					[
+						"wa",
+						"watch.rb"
+					],
+					[
+						"wat",
+						"watch.rb"
+					],
+					[
+						"cake",
+						"Cakefile"
+					],
+					[
+						"models",
+						"compiled/client/scripts/src/models.coffee"
+					],
+					[
+						"cak",
+						"src/Cakefile"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"index.",
+						"src/client/index.html"
+					],
+					[
+						"all.",
+						"src/client/scripts/packaged/all.js"
+					],
+					[
+						"model",
+						"src/client/scripts/src/models.coffee"
+					],
+					[
+						"media",
+						"src/client/scripts/src/services/media.coffee"
+					],
+					[
+						"media_l",
+						"src/client/scripts/src/services/media_local.coffee"
+					],
+					[
+						"cakefile",
+						"src/Cakefile.coffee"
+					],
+					[
+						"index",
+						"src/client/index.html"
+					],
+					[
+						"router",
+						"lib/sidelab-prowebapps-code-6bb4423/sync-server/src/com/jsonengine/controller/AppRouter.java"
+					],
+					[
+						"wmd.css",
+						"wmdspike/wmd/wmd.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 212.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1438.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"new_",
+						"new_list_item"
+					],
+					[
+						"out",
+						"output_file"
+					],
+					[
+						"com",
+						"compile_html"
+					],
+					[
+						"proce",
+						"process_file"
+					],
+					[
+						"read",
+						"read_definition"
+					],
+					[
+						"update",
+						"update_property"
+					],
+					[
+						"update_",
+						"update_definition"
+					],
+					[
+						"value",
+						"value_clicked"
+					],
+					[
+						"new",
+						"new_term"
+					],
+					[
+						"defin",
+						"definition_input"
+					],
+					[
+						"radio",
+						"radiobuttons"
+					],
+					[
+						"element",
+						"element_name"
+					],
+					[
+						"elemen",
+						"element_name_to_property_name"
+					],
+					[
+						"boun",
+						"boundary_selector"
+					],
+					[
+						"bou",
+						"boundary_selector"
+					],
+					[
+						"contin",
+						"continue_button"
+					],
+					[
+						"conin",
+						"continue_button"
+					],
+					[
+						"pla",
+						"placeholder_map"
+					],
+					[
+						"templ",
+						"template_element"
+					],
+					[
+						"temp",
+						"template_selector"
+					],
+					[
+						"te",
+						"template_selector"
+					],
+					[
+						"all",
+						"all_textboxes"
+					],
+					[
+						"text",
+						"textbox_count"
+					],
+					[
+						"j",
+						"javascript"
+					],
+					[
+						"check",
+						"check_properties_exist"
+					],
+					[
+						"prop",
+						"property_names"
+					],
+					[
+						"img",
+						"img_data"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/liam/work/foru2do/src/tests/browser/html_specs.coffee",
+					"settings":
+					{
+						"buffer_size": 2484,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/liam/work/foru2do/src/client/js/services/html.coffee",
+					"settings":
+					{
+						"buffer_size": 1718,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"selected_items":
+				[
+					[
+						"Snippet: ",
+						"Snippet: defit"
+					],
+					[
+						"Pack",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 602.0
+			},
+			"console":
+			{
+				"height": 146.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": true,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/liam/work/foru2do/src/client/js/backbone_modules/new_list.coffee",
+				"/home/liam/work/foru2do/src/client/templates/new_list_tmpl.html",
+				"/home/liam/work/foru2do/src/client/index.html",
+				"/home/liam/work/foru2do/src/tests/browser/tests.html",
+				"/home/liam/work/foru2do/src/client/templates/new_list_form_tmpl.html",
+				"/home/liam/work/foru2do/src/client/templates/radiobutton_tmpl.html",
+				"/home/liam/work/foru2do/src/client/templates/textbox_tmpl.html",
+				"/home/liam/work/foru2do/src/client/js/services/html.coffee",
+				"/home/liam/work/foru2do/src/client/js/backbone_modules/home.coffee",
+				"/home/liam/work/foru2do/src/tests/browser/home_specs.coffee",
+				"/home/liam/.config/sublime-text-2/Packages/User/defit.sublime-snippet",
+				"/home/liam/work/foru2do/src/client/templates/home_buttons_tmpl.html",
+				"/home/liam/work/foru2do/src/client/js/lib/templates.coffee",
+				"/home/liam/work/foru2do/watch.rb",
+				"/home/liam/work/foru2do/Cakefile",
+				"/home/liam/work/foru2do/src/client/js/app.coffee",
+				"/home/liam/work/foru2do/src/client/js/app.js",
+				"/home/liam/work/foru2do/templates.js",
+				"/home/liam/work/foru2do/templates.coffee",
+				"/home/liam/work/foru2do/src/tests/browser/templates_specs.coffee",
+				"/home/liam/work/chronicle/Cakefile",
+				"/home/liam/work/glossary_puzzle/Cakefile",
+				"/home/liam/work/foru2do/watchr.coffee",
+				"/home/liam/work/glossary_puzzle/src/js/modules/glossary.coffee",
+				"/home/liam/work/glossary_puzzle/src/index.html",
+				"/home/liam/work/glossary_puzzle/README.md",
+				"/home/liam/work/glossary_puzzle/watchr.js",
+				"/home/liam/work/glossary_puzzle/src/js/services/templates.coffee",
+				"/home/liam/work/glossary_puzzle/src/js/app.coffee",
+				"/home/liam/work/glossary_puzzle/src/css/app.css",
+				"/home/liam/work/glossary_puzzle/src/css/bootstrap-responsive.css",
+				"/home/liam/work/glossary_puzzle/tests/glossary_specs.coffee",
+				"/home/liam/work/glossary_puzzle/tests/tests.html",
+				"/home/liam/work/glossary_puzzle/src/css/bootstrap-responsive.min.css",
+				"/home/liam/work/foru2do/src/client/css/app.css",
+				"/home/liam/work/foru2do/src/client/js/lib/backbone.js",
+				"/home/liam/work/foru2do/src/tests/browser/html_specs.coffee",
+				"/home/liam/work/foru2do/src/client/server.js",
+				"/home/liam/work/foru2do/src/server/app.coffee",
+				"/home/liam/work/foru2do/src/tests/browser/new_list_specs.coffee",
+				"/home/liam/work/foru2do/src/client/js/services/templates.coffee",
+				"/home/liam/work/foru2do/src/client/js/services/tempates.coffee",
+				"/home/liam/work/foru2do/src/client/js/backbone_modules/new_list.js",
+				"/home/liam/work/foru2do/src/client/static_server.js",
+				"/home/liam/work/foru2do/src/tests/browser/test_helpers.coffee",
+				"/home/liam/work/foru2do/src/tests/browser/home_specs.js",
+				"/home/liam/work/foru2do/src/package.json",
+				"/home/liam/work/foru2do/src/pack.js",
+				"/home/liam/work/foru2do/src/node_modules/stitch/src/stitch.coffee",
+				"/home/liam/work/chronicle/src/tests/fast/model_tests.coffee",
+				"/home/liam/work/chronicle/src/client/index.html",
+				"/home/liam/work/chronicle/src/client/styles/chronicle.css",
+				"/home/liam/work/chronicle/src/client/scripts/src/log.coffee",
+				"/home/liam/work/resume/src/resume.md",
+				"/home/liam/work/resume/output/styles/resume.css",
+				"/home/liam/work/landoflisp/notes.md",
+				"/home/liam/work/foru2do/.gitignore",
+				"/home/liam/work/chronicle/automation/pack.js",
+				"/home/liam/work/foru2do/src/client/css/bootstrap.css",
+				"/home/liam/work/landoflisp/readme.md",
+				"/home/liam/work/landoflisp/.gitignore",
+				"/home/liam/temp/arr.coffee",
+				"/home/liam/temp/mod.coffee",
+				"/home/liam/work/chronicle/watch.rb",
+				"/home/liam/work/chronicle/src/client/scripts/lib/backbone.js",
+				"/home/liam/work/chronicle/src/client/scripts/src/app.js",
+				"/home/liam/work/chronicle/src/client/scripts/src/-",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/contract.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/media.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/data.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/media_local.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/services/environment.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/home.coffee",
+				"/home/liam/work/chronicle/node_modules/backbone/test/model.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/src/stitch.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/test/fixtures/default/.dotfile.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/test/fixtures/default/module.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/test/fixtures/default/exported_property.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/test/fixtures/default/foo/buz/index.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/test/fixtures/default/foo/bar.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/test/fixtures/default/foo/baz.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/test/fixtures/alternate/nonsense.coffee",
+				"/home/liam/work/chronicle/node_modules/stitch/test/test_stitch.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/src/lib/calc.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/src/calc.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/src/app.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/nodeunit/test/fixtures/coffee/mock_coffee_module.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/src/stitch.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/test/fixtures/default/.dotfile.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/test/fixtures/default/foo/buz/index.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/test/fixtures/default/foo/bar.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/test/fixtures/default/foo/baz.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/test/fixtures/alternate/nonsense.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/test/test_stitch.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/src/lib/calc.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/src/calc.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/src/app.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/nodeunit/test/fixtures/coffee/mock_coffee_module.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/src/stitch.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/test/fixtures/default/.dotfile.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/test/fixtures/default/module.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/test/fixtures/default/exported_property.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/test/fixtures/default/foo/buz/index.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/test/fixtures/default/foo/bar.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/test/fixtures/default/foo/baz.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/test/fixtures/alternate/nonsense.coffee",
+				"/home/liam/work/chronicle/spikes/stitch_haml/node_modules/stitch/test/test_stitch.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/test/fixtures/default/module.coffee",
+				"/home/liam/work/chronicle/spikes/stitch/node_modules/stitch/test/fixtures/default/exported_property.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/views.coffee",
+				"/home/liam/work/resume/build",
+				"/home/liam/work/resume/src/header.html",
+				"/home/liam/work/resume/src/web.config",
+				"/home/liam/work/resume/src/footer.html",
+				"/home/liam/work/resume/resume.md",
+				"/home/liam/work/resume/header.html",
+				"/home/liam/work/resume/footer.html",
+				"/home/liam/work/chronicle/compiled/client/scripts/src/services/contract.coffee",
+				"/home/liam/work/chronicle/compiled/client/scripts/src/log.js",
+				"/home/liam/work/chronicle/src/client/scripts/src/routers.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/src/models.coffee",
+				"/home/liam/work/chronicle/compiled/tests/fast/model_tests.coffee",
+				"/home/liam/work/chronicle/compiled/client/scripts/src/models.coffee",
+				"/home/liam/work/chronicle/compiled/client/scripts/src/views.js",
+				"/home/liam/work/chronicle/src/tests/model_tests.coffee",
+				"/home/liam/work/chronicle/src/client/scripts/packaged/all.js",
+				"/home/liam/work/chronicle/compiled/Cakefile",
+				"/home/liam/work/chronicle/src/Cakefile"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"element_name_to_property_name",
+					"new_list_form",
+					".make",
+					"list_item_tmpl",
+					"coffee",
+					"new_list_tmpl",
+					"#new_list_tmpl",
+					"home_buttons_tmpl",
+					"<div class=\"span6\">\n          <h2>Term</h2>\n        </div>\n        <div class=\"span6\">\n          <h2>Definition</h2>\n       </div>",
+					"list_item_tmpl",
+					"model",
+					"console.log",
+					"            ",
+					"\n    <script type=\"text/html\" id=\"list_item_tmpl\">\n        <input type=\"text\" class=\"new_list_item\" />\n    </script>",
+					"().",
+					"\">",
+					"    <",
+					"href",
+					"require",
+					"media",
+					"this is",
+					"backbone.js",
+					"\"",
+					"div#header\n{\n    background-color: #53777A;\n}",
+					"@font-face {\nfont-family: YanoneKaffeesatz;\nfont-weight: bold;\nsrc: url(\"fonts/YanoneKaffeesatz-Bold.otf\") format(\"opentype\");\n}",
+					"Extend",
+					"\n        .legend-bytes-rx {\n            background-color: @bytes-rx-colour;\n        }",
+					"#",
+					"update",
+					"initSensorHandler",
+					"init",
+					"console.log",
+					"victimGateway",
+					"victim",
+					"Avg",
+					"Max",
+					"min",
+					"Current",
+					"Name",
+					"    it(\"should join urls that end with /\", function() {            \n            expect(url.resolve('http://localhost/', 'auth')).toBe('http://localhost/auth');\n    });",
+					"side_bar",
+					"width"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"_element_name_to_property_name",
+					"'",
+					"avg",
+					"max",
+					"min",
+					"current",
+					"name"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/liam/work/foru2do/src/tests/browser/html_specs.coffee",
+							"settings":
+							{
+								"buffer_size": 2484,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1577,
+										1577
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 311.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/liam/work/foru2do/src/client/js/services/html.coffee",
+							"settings":
+							{
+								"buffer_size": 1718,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										862,
+										862
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,1,0,0,0,0,0,0,0,2720,1123",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"html",
+						"src/client/js/services/html.coffee"
+					],
+					[
+						"test",
+						"src/tests/browser/tests.html"
+					],
+					[
+						"new",
+						"src/client/js/backbone_modules/new_list.coffee"
+					],
+					[
+						"int",
+						"src/client/index.html"
+					],
+					[
+						"tests",
+						"src/tests/browser/tests.html"
+					],
+					[
+						"inde",
+						"src/client/index.html"
+					],
+					[
+						"home.c",
+						"src/client/js/backbone_modules/home.coffee"
+					],
+					[
+						"spec",
+						"src/tests/browser/home_specs.coffee"
+					],
+					[
+						"tes",
+						"src/tests/browser/tests.html"
+					],
+					[
+						"tem",
+						"src/client/js/lib/templates.coffee"
+					],
+					[
+						"wat",
+						"watch.rb"
+					],
+					[
+						"ind",
+						"src/client/index.html"
+					],
+					[
+						"app",
+						"src/client/js/app.coffee"
+					],
+					[
+						"temp",
+						"src/tests/browser/templates_specs.coffee"
+					],
+					[
+						"glo",
+						"src/js/modules/glossary.coffee"
+					],
+					[
+						"index",
+						"src/index.html"
+					],
+					[
+						"glossar",
+						"src/js/modules/glossary.coffee"
+					],
+					[
+						"glossary_sp",
+						"tests/glossary_specs.coffee"
+					],
+					[
+						"app.coffe",
+						"src/js/app.coffee"
+					],
+					[
+						"new_li",
+						"client/js/backbone_modules/new_list.coffee"
+					],
+					[
+						"bac",
+						"client/js/lib/backbone.js"
+					],
+					[
+						"home",
+						"client/js/backbone_modules/home.coffee"
+					],
+					[
+						"a",
+						"client/js/app.coffee"
+					],
+					[
+						"new_",
+						"client/js/backbone_modules/new_list.js"
+					],
+					[
+						"pack",
+						"pack.js"
+					],
+					[
+						"in",
+						"index.html"
+					],
+					[
+						"contract",
+						"compiled/client/scripts/src/services/contract.coffee"
+					],
+					[
+						"wa",
+						"watch.rb"
+					],
+					[
+						"cake",
+						"Cakefile"
+					],
+					[
+						"models",
+						"compiled/client/scripts/src/models.coffee"
+					],
+					[
+						"cak",
+						"src/Cakefile"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"index.",
+						"src/client/index.html"
+					],
+					[
+						"all.",
+						"src/client/scripts/packaged/all.js"
+					],
+					[
+						"model",
+						"src/client/scripts/src/models.coffee"
+					],
+					[
+						"media",
+						"src/client/scripts/src/services/media.coffee"
+					],
+					[
+						"media_l",
+						"src/client/scripts/src/services/media_local.coffee"
+					],
+					[
+						"cakefile",
+						"src/Cakefile.coffee"
+					],
+					[
+						"router",
+						"lib/sidelab-prowebapps-code-6bb4423/sync-server/src/com/jsonengine/controller/AppRouter.java"
+					],
+					[
+						"wmd.css",
+						"wmdspike/wmd/wmd.css"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 212.0,
+			"status_bar_visible": true,
+			"window_id": 8,
+			"workspace_name": "/home/liam/work/glossary_puzzle/glossary.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/liam/work/glossary_puzzle/glossary.sublime-project",
+			"/home/liam/work/backbone-sandpit/backbone-sandpit.sublime-project",
+			"/home/liam/work/chronicle/src/chronicle.sublime-project"
+		]
+	}
+}

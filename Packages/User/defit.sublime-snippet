@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+define '${1:subject}', ->
+    
+    it 'should ${2:observation}', ->
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>defit</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.coffee</scope> -->
+</snippet>

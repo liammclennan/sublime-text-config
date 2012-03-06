@@ -1,0 +1,9 @@
+{
+	"auto_upgrade_last_run": 1331009031,
+	"installed_packages":
+	[
+		"Package Control",
+		"SublimeCodeIntel",
+		"ZenCoding"
+	]
+}
